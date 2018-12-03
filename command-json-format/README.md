@@ -1,9 +1,5 @@
-Command Data Model
+datamodel-command-java
 =======================================
-
-Command Data Model is for command of metadata. 
-It will get you a easy expression of your data to send to micro service. And Also, It's good at expressing all data. because edgeAttributes can contain another edgeAttribute object.
-- [How to make json format](./document/README.md)
 
 ## Prerequisites ##
 - maven
@@ -11,7 +7,7 @@ It will get you a easy expression of your data to send to micro service. And Als
    - [How to install](https://maven.apache.org/install.html)
    - [Download](https://maven.apache.org/download.cgi)
 
-## How to build ##
+## How to Build ##
 - Linux command line
   1. Goto: <br></br>
     ~/datamodel-command-java/command-json-format
@@ -31,4 +27,3 @@ It will get you a easy expression of your data to send to micro service. And Als
 
   3. On successful build it will create a jar: <br></br>
     ~/datamodel-command-java/command-json-format/target/datamodel-command-java-0.0.1-SNAPSHOT.jar
-
